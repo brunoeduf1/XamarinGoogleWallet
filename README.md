@@ -1,1 +1,1 @@
-# XamarinGoogleWallet
+# Google Wallet for Xamarin Android
