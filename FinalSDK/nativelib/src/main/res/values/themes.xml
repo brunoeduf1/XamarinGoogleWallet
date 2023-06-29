@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.FinalSDK.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="Theme.FinalSDK.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" >
+        <item name="windowActionBar">false</item>
+    </style>
+
+</resources>

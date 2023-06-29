@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nativelib">
+
+    <application>
+        <activity
+            android:name=".GooglePay"
+            android:exported="false"
+            android:label="@string/title_activity_google_pay"
+            android:theme="@style/AppTheme" />
+
+        <!-- This element is required to enable Google Pay in your app. -->
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
+
+        <activity
+            android:name=".EmptyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WalletActivity"
+            android:exported="false"
+            android:label="@string/title_activity_checkout"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".BasicActivity"
+            android:exported="false"
+            android:label="@string/title_activity_basic" />
+        <activity
+            android:name=".MyWalletActivity"
+            android:exported="false"
+            android:label="@string/title_activity_my_wallet"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>
