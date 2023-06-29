@@ -30,3 +30,21 @@ The reference will appear as below.
 
 <img width="278" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/a0a58684-e216-4497-b35d-e13daf53d67f">
 
+## 3 Add the .aar file to the library
+
+Add the nativelib-debug.aar file inside the Jars folder.
+
+<img width="226" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/8caed746-6431-4b04-b95a-c1558d98cead">
+
+This file was generated using Android Studio in the Kotlin language, based on the code in the link below:
+
+https://github.com/google-pay/wallet-android-codelab/blob/main/android_complete/app/src/main/java/com/google/android/gms/samples/wallet/activity/CheckoutActivity.kt
+
+In this file were created the methods below that will be used in the Xamarin Android project.
+
+<img width="461" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/033c75c6-b9a8-4efa-a3ea-9988e1282a0f">
+
+ ## 4 ...
+
+
+
