@@ -54,7 +54,7 @@ Insert the nativelib library into the Android project (using Com.Example.Nativel
 
  Create an instance of wallet activity
 
- <img width="819" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/abf533d0-7c62-4e67-b8ca-b1e773672524">
+ <img width="1012" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/9da86da0-f4a8-42e7-bcfa-30251fe84b2b">
 
  Call OpenNativeActivity inside OnCreate
 
@@ -76,7 +76,7 @@ Create the jsonObject like this
 
 With parameters similar to this
 
-<img width="795" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/4d0ee59e-9227-424d-be9a-4ed00304eef5">
+<img width="932" alt="image" src="https://github.com/brunoeduf1/XamarinGoogleWallet/assets/69606316/d42755a0-3919-4a93-bbe8-318a6a4719b3">
 
 In the wallet button click event, call the AddToWallet() method
 
