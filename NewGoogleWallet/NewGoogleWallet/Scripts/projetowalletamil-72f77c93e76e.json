@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projetowalletamil",
+  "private_key_id": "72f77c93e76eb0b78742b4d7a39fdf626d976d08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDpv7aiYCwZgKHb\n4UeqswnHpVYZeiQJK47V+Tu4FeFm+epHuoBvKnrgt8eL0BeeukScBEHDueU5ztYa\nPUPhSQD6eZBP4dvTdNrht2IYeMqmw5BKuklGvuurw8h6OtUrf5R/HMrL+DWEhl98\nPxocJl5CeOjekQKOQwfLebvfLQBD3NJrEb6Atf3/ZmQCuVYM2D+U4T47s5g3eGMl\nsNIEFDcHFbX7FKkI7RLCkyxh9GJgM+wIzmOZBLOepejaHMGnunZfppmNjCPzUJ+r\n7TWWlIcufGZC+ESrvj0K120Bys+TI5FWqJgTsnUEiP0N5CIIXeniZHGZSYD0T0LR\nlwh0gYiDAgMBAAECggEAApmPo0DZldx1VPyI+HS3ww7GyeGcitps9VpyqjzaWZhc\nuMsWdi82aj0DVj3Vof33qz8kBGbJ+/mLm/E/N4h4Hz7J5Hq0jd14gg3DUlaAdWFh\nmx11K1SguI8k1noNwaK+IgLyeH3hCe889jdQmhn63I5EbxXePcQeGEqiQmEiioxh\n14rjfKDO4JVOagkc3AfkmUZSCI1G0UTJLHwhRwzwWEe7UyJHz0RxIv1ZsE1lJp74\nEPxiY4BCS/ja0dVyp/RAE4Qz86yR7z6mJ1AkBdXMCa3NPdzkCbcp9kNHBqvvut8U\nhGL6xMaxygeBG8RqlQECuEOpbwDX52FLqn4Lpat5MQKBgQD8p0I8KkMgCFkXVE/7\nW+adDGPgAFkK6Mpa4R2bnaP7UaDzJRN1qmSypxld1j8kDmwBfe8wXXVX5zPAjugR\nNpnmSRUkE1nQIEQXjJv+yXA/w5pEt78+YzRx6RUfXBhMiNpC3DoNETyaUyOcAnue\nEruDzJCeVoCfRhfWIUAR4tIlUwKBgQDs2Fme9GKieYifN/9UHlRTrhJLVkMeHIWw\nhfExHnEMMdq/eLLtifFrBMCvyYPQ3V22bh2oUq/3KsMU9jJVsOcn8Fb+w72D4ORa\n4YcuVLFuTxHFi/qe99ETNDAtgVYOKG5MCBErZK8aIabnonDYwJIQi/KWCzkMJcFa\n2iIvFj76EQKBgQDxroHCkd7iLnoiwek8lj2071w+s7Z5pBOl+X/cE2EAkKY40Leb\nsCJhb0zpoX+G2zDgAHqktlIAg07THSDLDoMLcc+CUexxFdxs9nlmsYTpyg+xOl/7\nquRJLuCgvfUUiTjYCliRlXJ2YZ9Hpmxf2qV7P1z7yd2B/ofgsq/aLDI/twKBgCKR\nLPtbFa466Kq8RIKlbo9L/5WJQIB7jzOFSP9vPvaVrCR33D14/YguCGVfluJ7/Hps\ntd1kPBRp5FEB4bTJ/eLBXCEQtm8x+oIdGlqzt7Wuypw3YtuitZwE6OcrUkD8u6RT\nJRZdOoUo1jBGcAvihy7tDfnCJ5BTTlYRMh4HNCfRAoGALEHF1a8b6Wwk3HMuFO7J\nD/AphXaNUiks3uveIdeArOMHAvwkZL1CUoSuCSvsKQEda8Rwl7xQdZXKGihuKVw9\nsmTHWeNKY8HcyaF2qJEKESZV5D8L7z3sg13crI5jVZofKWQJT2bFEDYuNhjsEoPt\nCXTUHOekhnbWYCVVqTIn01I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "walletamil@projetowalletamil.iam.gserviceaccount.com",
+  "client_id": "111322130031570116983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/walletamil%40projetowalletamil.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

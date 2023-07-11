@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGoogleWallet", "NewGoogleWallet\NewGoogleWallet.csproj", "{5F7319D0-22FA-412B-B18C-53B9E17E3644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletSDK", "WalletSDK\WalletSDK.csproj", "{A6BAE2F2-073E-43CE-88CD-F9439B9B091A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7319D0-22FA-412B-B18C-53B9E17E3644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7319D0-22FA-412B-B18C-53B9E17E3644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7319D0-22FA-412B-B18C-53B9E17E3644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7319D0-22FA-412B-B18C-53B9E17E3644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BAE2F2-073E-43CE-88CD-F9439B9B091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BAE2F2-073E-43CE-88CD-F9439B9B091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BAE2F2-073E-43CE-88CD-F9439B9B091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BAE2F2-073E-43CE-88CD-F9439B9B091A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F24146E-2F13-49F3-BCF9-6B21EAEF999C}
+	EndGlobalSection
+EndGlobal
