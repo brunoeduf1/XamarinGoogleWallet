@@ -32,7 +32,7 @@ namespace NewGoogleWallet
 
         string walletIssuerEmail = "xxxxxxxxxxx@xxxxxxxxxxxxx.iam.gserviceaccount.com";
         string walletIssuerId = "33880000000xxxxxxxx";
-        string walletPassClass = "amil";
+        string walletPassClass = "xxxxx";
         string walletUserName = "Bruno Ferreira";
         string walletUserNetwork = "Teste";
         string walletOpticalMark = "123456789";
