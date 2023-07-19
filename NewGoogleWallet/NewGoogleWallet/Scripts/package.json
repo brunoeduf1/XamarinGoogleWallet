@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "google-auth-library": "^8.8.0",
-    "jsonwebtoken": ">=8.5.1",
-    "uuid": "^9.0.0"
-  }
-}
